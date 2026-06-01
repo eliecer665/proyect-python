@@ -1,4 +1,4 @@
-edad = 70
+edad = 22
 
 if edad > 60:
     print("puede ver pelicula con super  descuento") #siempre se lee hacia abajo y cuidado con el orden
