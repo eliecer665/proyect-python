@@ -1,4 +1,4 @@
-n1 = input("ingresa tu primer numero") 
+n1 = input("ingresa tu primer numero") # con inptu llama o pide que ingrese datos
 n2 = input("ingresa el segundo numero")
 
 n1 = int(n1)

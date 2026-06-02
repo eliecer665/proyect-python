@@ -3,7 +3,7 @@
 
 
 
-curso = 'ultimate pytho ' 
+curso = 'ultimate python' 
 print(curso)
 
 

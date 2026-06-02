@@ -2,8 +2,8 @@ import math
 
 
 print(round(1.3)) # redondear un numero o aproximación
-print(round(1.7))
-print(abs(-1.3)) # vaor absoluto 
+print(round(1.7))  
+print(abs(-1.3)) # valor absoluto 
 print(abs(55))
 
 

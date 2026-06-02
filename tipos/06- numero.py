@@ -2,7 +2,7 @@ numero = 2 #entero o integral
 decimal = 1.05 # float
 imaginario = 2 + 2j # 2 + 2 i 
 
-numero = numero +2
+numero = numero + 5
 print(numero)
 
 numero *= numero + 9
